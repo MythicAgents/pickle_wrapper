@@ -1,7 +1,7 @@
 # Pickle Injection Wrapper
 The `pickle_wrapper` payload is a special payload. This is a python encoder that acts as a "wrapper" around a Medusa agent (any python agent should work). As such, this payload type has no commands and no supported C2 profiles - it simply acts as a way to turn arbitrary other agents into pickle op codes and injects that into a specified Pickle.
 
-!(https://coldwaterq.com/presentations/ColdwaterQ - BACKDOORING Pickles A decade only made things worse - v1 - demo.gif)
+!(https://coldwaterq.com/presentations/ColdwaterQ%20-%20BACKDOORING%20Pickles%20A%20decade%20only%20made%20things%20worse%20-%20v1%20-%20demo.gif)
 
 ## Setup
 
@@ -55,9 +55,9 @@ If you are testing on Windows and need to start the http listenner
 
 
 
-## Detection
+### Detection
 - [Yara Rule created by Medsterr](https://github.com/medsterr/yara/tree/main/python/pickle_injector.py)
 
-## Related Presentation
-- [DEFCON Powerpoint Version](https://coldwaterq.com/presentations/ColdwaterQ - BACKDOORING Pickles A decade only made things worse - v1.pptx)
-- [DEFCON PDF Version](https://coldwaterq.com/presentations/ColdwaterQ - BACKDOORING Pickles A decade only made things worse - v1.pdf)
+### Related Presentation
+- [DEFCON Powerpoint Version](https://coldwaterq.com/presentations/ColdwaterQ%20-%20BACKDOORING%20Pickles%20A%20decade%20only%20made%20things%20worse%20-%20v1.pptx)
+- [DEFCON PDF Version](https://coldwaterq.com/presentations/ColdwaterQ%20-%20BACKDOORING%20Pickles%20A%20decade%20only%20made%20things%20worse%20-%20v1.pdf)
