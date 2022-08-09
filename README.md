@@ -56,7 +56,7 @@ If you are testing on Windows and need to start the http listenner
 
 
 ### Detection
-- [Yara Rule created by Medsterr](https://github.com/medsterr/yara/tree/main/python/pickle_injector.py)
+- [Yara Rule created by Medsterr](https://github.com/medsterr/yara/tree/main/python/pickle_injector)
 
 ### Related Presentation
 - [DEFCON Powerpoint Version](https://coldwaterq.com/presentations/ColdwaterQ%20-%20BACKDOORING%20Pickles%20A%20decade%20only%20made%20things%20worse%20-%20v1.pptx)
