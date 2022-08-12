@@ -4,6 +4,7 @@ The `pickle_wrapper` payload is a special payload. This is a python encoder that
 ![dmeo image](https://coldwaterq.com/presentations/ColdwaterQ%20-%20BACKDOORING%20Pickles%20A%20decade%20only%20made%20things%20worse%20-%20v1%20-%20demo.gif)
 
 To use it you upload a pickle to mythic, and while generating the wrapper, put the name into the appropriate field and pick an agent to wrap. Besides that everything is handled for you.
+The name you enter is a wildcard search of file names so you just need to type what is unique for the file you want to inject into.
 
 ## Setup
 
